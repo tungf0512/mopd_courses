@@ -1,0 +1,7 @@
+.aws
+.agents/
+.codex/
+/.Codex/
+__pycache__/
+.DS_Store
+*.pyc
